@@ -35,3 +35,13 @@ display: block;
 .half{
     background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
 }
+.home-logo{
+    border: white 8px solid;
+    font-size: 68px;
+}
+.ruler{
+    width: 75px;
+    height: 5px;
+    display: inline-block;
+    background-color: white;
+}
